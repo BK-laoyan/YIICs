@@ -1,2 +1,0 @@
-# YIICs
-YIICode
